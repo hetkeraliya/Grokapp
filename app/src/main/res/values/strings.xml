@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Band Stats</string>
+    <string name="scan_devices">Connect</string>
+    <string name="auth_key_hint">Auth key (32 hex chars)</string>
+    <string name="permission_ble_title">Bluetooth needed</string>
+    <string name="permission_ble_rationale">Band Stats pairs with your band over Bluetooth Low Energy. Data stays on this phone.</string>
+    <string name="permission_location_title">Location (older Android)</string>
+    <string name="permission_location_rationale">On Android 11 and older, BLE scanning requires location permission. This app never uses your location.</string>
+    <string name="status_idle">Not connected</string>
+    <string name="status_scanning">Scanning…</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_authenticating">Authenticating…</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_error">Error</string>
+</resources>
